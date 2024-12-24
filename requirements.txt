@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+python-dotenv
+pandas
+SQLAlchemy
+fastapi
+uvicorn
+python-multipart
+google-generativeai
+SimplerLLM
