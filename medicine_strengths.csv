@@ -1,0 +1,1402 @@
+quantity,unit,status
+500,mg,active
+500,mg + 200 IU,active
+50,mg,active
+20,mg,active
+600,mg,active
+75,mg + 150 mg,active
+275,mg + 75 mg + 400 mg + 150 mg,active
+275,mg + 75 mg + 150 mg,active
+100,mg,active
+50,mg + 75 mg,active
+50,mg + 150 mg + 75 mg,active
+250,mg,active
+750,mg,active
+1000,mg,active
+5,mg,active
+10,mg,active
+125,mg/5 ml,active
+100,mg/5 ml,active
+200,mg,active
+200,mg/5 ml,active
+90,mg,active
+400,mg,active
+2,mg/5 ml,active
+4,mg,active
+20,mg + 2 mg + 2 mg + 5 mg,active
+20,mg + 2 mg + 2 mg + 5 mg/5 ml,active
+200,mg + 40 mg/5 ml,active
+800,mg + 160 mg,active
+175,mg + 225 mg/5 ml,active
+250,mg + 400 mg,active
+120,mg/5 ml,active
+125,mg/1.25 ml,active
+10,mg/5 ml,active
+1.25,gm/5 ml,active
+60,mg + 30 mg/gm,active
+10,gm + 750 gm + 1.75 gm + 1.45 gm/500 ml,active
+150,mg + 500 mcg + 22.5 mg,active
+5,mg/5 ml,active
+5,mg/ml,active
+1250,mg,active
+65,mg + 500 mg,active
+3,mg,active
+.5,mg,active
+250,mg/5 ml,active
+50,mg + 47 mg + 500 mcg + 10 mg + 1 mg + 2 mg + 2 mg + 22.5 mg,active
+47,mg + 500 mcg + 20 mg + 2 mg + 2 mg + 5 mg + 22.5 mg,active
+850,mg,active
+10,mg/gm,active
+150,mg,active
+80,mg,active
+20,mg/gm,active
+1,gm/100 gm,active
+50,mg/100 gm,active
+75,mg,active
+15,mg/5 ml,active
+6.25,mg,active
+2.5,mg,active
+200,mcg + 200 mg + 100 mg,active
+1,gm + 100 mg/100 gm,active
+100,mg/100 gm,active
+40,mg,active
+60,mg,active
+120,mg,active
+75,mg + 75 mg,active
+8,mg,active
+15,mg,active
+5,mg + 25 mg,active
+20,mg + 50 mg,active
+1,mg,active
+2,mg,active
+20,mg + 2 mg + 2.75 mg + 5 mg + 10 mg,active
+4,mg/5 ml,active
+30,mg/5 ml,active
+100,mg/5 gm,active
+80,mg/ml,active
+6.75,gm + 750 mg + 1.3 gm + 1.45 gm,active
+12.5,mg,active
+125,mg,active
+500,mg + 70 gm/100 ml,active
+50,mg + 500 mcg + 22.5 mg,active
+80,mg/100 ml,active
+20,mg + 500 mg,active
+40,mg/5 ml,active
+480,mg + 20 mg/5 ml,active
+67,mg/ml,active
+1.6,gm + 5 gm + 2.6 gm/100 ml,active
+3.25,gm + 5 gm + 2.13 gm/100 ml,active
+1.75,gm/100 ml,active
+280,mg + 2000 mg + 22 mg/100 ml,active
+1,mg/5 ml,active
+200,mg + 400 mg + 30 mg/5 ml,active
+40,mg/vial,active
+30,mg/ml,active
+2.5,mg/ml,active
+9,mg/ml,active
+500,mg + 125 mg,active
+125,mg + 31.25 mg/5 ml,active
+500,mg/vial,active
+1,gm/vial,active
+2,gm,active
+1,gm,active
+5,mg + 1 mg/ml,active
+1,mg/ml,active
+.2,gm/100 ml,active
+250,mg + 62.5 mg,active
+10,gm/100 ml,active
+600,mg + 900 mg,active
+1,%,active
+1.66,gm + 1.66 gm + 1.66 gm,active
+5,gm/100 gm,active
+60,gm + 6.65 gm/100 gm,active
+30,gm/100 gm,active
+170,gm + 170 gm + 1 gm/KG,active
+750,mg + 1.2 gm,active
+30,%,active
+100,mg/ml,active
+20,gm/100 gm,active
+100,mg/gm,active
+250,mg/ml,active
+20,%,active
+2.5,gm/100 ml,active
+300,mg/gm,active
+10,gm/100 gm,active
+70,gm/100 gm,active
+44,mg/gm,active
+500,mcg + 10 mg,active
+800,mg,active
+400,mg + 400 mg + 30 mg,active
+400,mg + 80 mg,active
+100,mg + 500 mg/100 ml,active
+4.2,gm + 20.8 gm + 22 gm + 5 gm/100 ml,active
+50,mg/5 ml,active
+200,mg + 250 mg,active
+375,mg,active
+25,mg,active
+2.5,mg/5 ml,active
+40,mg/2 ml,active
+50,mg/1.25 ml,active
+300,mg/100 ml,active
+300,mg/5 ml,active
+150,mg + 500 mcg,active
+250,mg/vial,active
+187,mg/100 ml,active
+4,gm/100 ml,active
+500,mg/100 ml,active
+100,mg/vial,active
+7.5,mg,active
+20,mg/ml,active
+100,mg/2 ml,active
+500,mg/2 ml,active
+5,mg + 50 mg,active
+30,mg,active
+300,mg,active
+1,gm + 2 gm/100 gm,active
+75,mg + 20 mg/2 ml,active
+47,mg + 500 mcg + 10 mg + 1 mg + 2 mg + 2 mg + 50 mg + 22.5 mg,active
+6,mg/ml,active
+250,IU + 5 mg/gm,active
+1,Lac Unit/ml,active
+200,mg/100 ml,active
+22.7,mg,active
+.025,%,active
+68,%,active
+200,mg + 1 mg + 3 mg + 70 mcg + 2000 IU + 50 IU + 75 mcg + 15 mg,active
+60,mg + 30 mcg + 150 mcg + 162 mg + 120 mcg + 2 mg + 6 mcg + 18 mg + 400 mcg + 150 mcg + 250 mcg + 100 mg + 2 mg + 75 mcg + 20 mg + 5 mcg + 10 mg + 109 mg + 80 mg + 2 mg + 1.7 mg + 20 mcg + 2 mg + 10 mcg + 10 mcg + 5000 IU + 1.5 mg + 400 IU + 30 IU + 25 mcg + 15 mg,active
+60,mg + 30 mcg + 150 mcg + 52.49 mg + 120 mcg + 2 mg + 6 mcg + 478.695 mg + 18 mg + 400 mcg + 150 mcg + 250 mcg + 100 mg + 2 mg + 75 mcg + 20 mg + 5 mcg + 10 mg + 152.52 mg + 2 mg + 1.7 mg + 20 mcg + 2 mg + 10 mcg + 10 mcg + 1.5 mg + 400 IU + 30 IU + 25 mcg + 15 mg,active
+12.5,mg + 50 mg,active
+12.5,mg + 25 mg,active
+15,gm + 1.5 gm/100 ml,active
+500,mg + 100 mg/100 gm,active
+3,gm + 300 mg/100 ml,active
+25,mg + 500 mg/100 gm,active
+6,mg + 200 mg + 50 mg,active
+5,ml,active
+327,mg + 1 gm + 500 mg,active
+50,mg + 20 mg + 2 mg + 2 mg + 5 mg + 10 mg/5 ml,active
+500,mg + 100 mg/100 ml,active
+2,gm + 10 gm/100 ml,active
+250,mcg + 600 mg + 1 mg + 40 mg + 1.8 mg + 200 IU + 7 mg,active
+80,mg/5 ml,active
+25,mg/100 gm,active
+25,gm/100 ml,active
+2,gm/vial,active
+50,mg + 500 mg + 100 Lac IU/100 gm,active
+50,mg + 25 mg,active
+25,mg + 50 mg,active
+50,mg + 20 mg,active
+5,mg + 20 gm/100 ml,active
+10,mg/ml,active
+10,gm + 5 mg/100 ml,active
+1.5,mg,active
+135,mg,active
+70,mg + 2800 IU,active
+8,mg/4 ml,active
+.3,gm/100 ml,active
+850,mg + 15 mg,active
+500,mg + 15 mg,active
+17.5,mg + 100 mg + 9 mg + .35 mg + .85 mg + 2000 IU + .7 mg + 200 IU + 1.5 mg/5 ml,active
+500,mg + 500 mg,active
+75,mg + 400 mg + 150 mg,active
+10,gm + 15 gm/100 gm,active
+8,gm + 30 gm/100 gm,active
+5,mg + 20 mg,active
+40,gm/100 gm,active
+.25,%,active
+6,mg,active
+5,mg + 10 mg,active
+2.5,mg + 10 mg,active
+5,mg/2 ml,active
+200,mcg,active
+1,mg + 100 mg + 100 mg/3 ml,active
+750,mg/vial,active
+200,mg/ml,active
+100,%,active
+320,gm/KG,active
+170,gm/ KG,active
+85,gm/ KG,active
+20,mg + 2 mg + 2 mg + 5 mg + 10 mg/5 ml,active
+48,gm/KG,active
+500,gm/ KG,active
+700,gm/KG,active
+450,mg + 50 mg,active
+.3,%,active
+1,mcg/ml,active
+250,mg/20 ml,active
+1,gm/5ml,active
+.5,mg/ml,active
+2.5,mg/1ml,active
+5,mg/ ml,active
+20,mg + 320 mg/4 ml,active
+4,mg/ml,active
+40,mg/ml,active
+50,mg + 10 gm/100 ml,active
+2,mg/.2 ml,active
+500,mg/5 ml,active
+500,mcg/ml,active
+60,mg + 2 mg + 6 mg + 30 mg + 15 mg,active
+4,gm + .016 gm + .4 gm + .48 mg + 4 gm + 2.4 gm + .032 gm + .016 gm + 2.4 gm + 2.4 gm + 1.6 gm + .5 gm + .16 gm + .2 gm + 6 mg + 500 IU + .1 gm + 100 IU + .8 gm + .16 gm + 2 gm,active
+6,gm + .02 gm + .4 gm + .48 mg + 2 gm + 1.6 gm + .032 gm + .016 gm + 1.2 gm + 2.4 gm + 1.4 gm + .6 gm + .16 gm + .32 gm + 6 mg + 620 IU + .1 gm + 120 IU + 1 gm + .16 gm + 2.4 gm,active
+2,mg + .016 gm + .032 gm + .4 mg + 2 gm + 1.28 gm + .02 gm + .032 gm + 1.2 gm + 2.56 gm + 1 gm + .48 gm + .12 gm + .16 gm + 6.4 mg + 480 IU + .04 gm + 80 IU + .6 gm + .08 gm + 1.6 gm,active
+25,gm/100 gm,active
+5,gm,active
+10,gm + 5 gm + 50 gm + 26.6 gm + 200 IU,active
+150,mg + 500 mcg + 61.8 mg,active
+62,%,active
+2.6,mg,active
+1,gm/100 ml,active
+90,mg/100 ml,active
+7.5,mg/ml,active
+92,mg + 42 mg + 60 mg + 64 mg/100 ml,active
+5,gm/100 ml,active
+5,mcg + 20 mg/ml,active
+1,mg/gm,active
+700,mcg,active
+180,mcg,active
+88,mcg,active
+400,mcg,active
+100,mcg/Metered Inhalation,active
+100,mcg/Spray,active
+100,mcg,active
+60,mg/2 ml,active
+5,%,active
+5,mg + 80 mg,active
+5,mg + 160 mg,active
+40,mg + 50 mg,active
+667,mg,active
+50,mcg + 25 mcg/Metered Inhalation,active
+125,mcg + 25 mcg/Metered Inhalation,active
+250,mcg + 25 mcg/Metered Inhalation,active
+.05,mg + 5 mg/ml,active
+250,mcg/Metered Inhalation,active
+330,mg,active
+12,mg,active
+20,mg + 120 mg,active
+180,mg,active
+1.62,gm + 384 mg + 186 mg + 336 mg + 117 mg,active
+500,IU + 5 mg/gm,active
+100,gm/100 gm,active
+9.1,mg + 50 mg + .02 mg + 100 mg + 25 mg,active
+12.5,mg + 20 mg,active
+.05,gm/100 gm,active
+1.5,gm/vial,active
+15,mg/ml,active
+1.2,gm + .025 gm/100 gm,active
+.25,mg,active
+10,mg/2 ml,active
+300,mg + 100 mg/100 ml,active
+200,mg + 50 mg + 1 gm + 60 mg/100 ml,active
+15,mg/3 ml,active
+2.5,gm + 2.5 gm/100 gm,active
+160,mg,active
+250,mcg/ml,active
+12.5,mg/ml,active
+50,mg/1 gm,active
+3,mg/gm,active
+4,gm + .5 gm/vial,active
+55,mcg/Metered Inhalation,active
+2,gm + 250 mg/vial,active
+20,mcg/Spray,active
+20,mg/2 ml,active
+20,mg + 375 mg,active
+100,mcg + 6 mcg,active
+200,mcg + 6 mcg,active
+400,mcg + 12 mcg,active
+160,mcg + 4.5 mcg/Puff,active
+80,mcg + 4.5 mcg/Puff,active
+500,mcg + 50 mcg,active
+100,mcg + 50 mcg,active
+250,mcg + 50 mcg,active
+220,mcg,active
+110,mcg,active
+325,mg + 37.5 mg,active
+2.25,gm/250 ml,active
+50,mg/ml,active
+30,mcg + 150 mcg,active
+750,mcg,active
+50,mcg,active
+20,mg + 40 mg,active
+2.5,mg/2.5 ml,active
+20,mcg + 100 mcg/Metered Inhalation,active
+2,mg/4 ml,active
+50,mg/100 ml,active
+25,mg/5 ml,active
+.05,%,active
+37.5,mg + 200 mg + 150 mg,active
+25,mg + 200 mg + 100 mg,active
+12.5,mg + 200 mg + 50 mg,active
+5,mg + 40 mg,active
+50,mg + 200 mg + 200 mg,active
+2.5,mg + 6.25 mg,active
+5,mg + 6.25 mg,active
+400,mcg/Metered Inhalation,active
+480,mg + 20 mg,active
+1.25,ml + 300 mg/5 ml,active
+625,mg,active
+125,mg + 31.25 mg,active
+100,mg + 62.5 mg,active
+200,mg + 125 mg,active
+4.09,gm + 70 mg + 380 mg + 420 mg + 440 mg + 8.07 gm/250 ml,active
+500,mg + 50 mg,active
+1000,mg + 50 mg,active
+5,Lac IU + 15 Lac IU + 2.5 gm/vial,active
+4,Lac IU + 20 Lac IU + .5 gm,active
+45,%,active
+18.2,mg + 100 mg + 40 mcg + 200 mg + 50 mg,active
+11,mg/22 gm,active
+300,IU/3 ml,active
+50,mg + 750 mg,active
+50,mg + 200 mg,active
+25,mg + 100 mg,active
+50,mg/10 ml,active
+15,Lac IU,active
+600,mg + 400 IU,active
+550,mg,active
+300,mcg + 200 mg + 120 mcg + 2 mg + 400 mcg + 9 mg + 100 mg + 2 mg + 30 mg + 10 mg + 4.2 mg + 20 mcg + 3.75 mg + 2500 IU + 15 mcg + 5 mg + 120 mg + 400 IU + 30 IU + 25 mcg + 15 mg,active
+300,mcg + 300 mg + 120 mcg + 2 mg + 400 mcg + 18 mg + 50 mg + 2 mg + 30 mg + 10 mg + 2.6 mg + 20 mcg + 2.3 mg + 2500 IU + 9 mcg + 3 mg + 120 mg + 800 IU + 30 IU + 25 mcg + 15 mg,active
+500,mcg,active
+30,MIU/.5 ml,active
+1.15,gm,active
+2.3,gm,active
+2000,IU/.5 ml,active
+3000,IU/.75 ml,active
+5000,IU/.5 ml,active
+10000,IU/ml,active
+.05,gm + 2 gm/100 ml,active
+100,mg + 500 mg,active
+100,mg + 500 mg/5 ml,active
+10,gm + 5 gm/100 ml,active
+1.8,gm/100 ml,active
+12.5,mg + 40 mg,active
+5,mg/100 ml,active
+740,mg,active
+90,mg + 400 mg,active
+700,mcg/ml,active
+150,mg/100 ml,active
+850,mg + 50 mg,active
+66,ml + 3.5 ml/100 ml,active
+250,mcg + 3 mg/ml,active
+50,mcg/Metered Inhalation,active
+100,mg/100 ml,active
+250,mg + 250 mg/vial,active
+10,gm,active
+500,mg/10 ml,active
+1.25,gm/25 ml,active
+200,gm/Kg,active
+50,gm/100 gm,active
+2,gm + 20 gm + 10 gm/100 gm,active
+500000,IU + 75000 IU + 50 mg/100 ml,active
+22.75,mg/ml,active
+200,mg/gm,active
+900,mg,active
+1,gm/gm,active
+.61,gm + 1.1 gm + 6 gm/100 gm,active
+30,mg + 10 mg,active
+7,% + 10 %,active
+50,mcg/Spray,active
+12.5,mg + 80 mg,active
+1350,mg + 650 mcg + 550 mg + 200 mg + 70 mcg + 60 mcg + 200 mg + 500 mcg + 150 mg + 15 mg + 70 mg + 10 mg + 140 mg + 20 mg + 350 mcg + 17000 IU + 20 mg + 2750 IU + 200 IU + 50 mg,active
+200,mg + 360 mg + 1 gm/100 ml,active
+400,mg + 300 mg/100 ml,active
+24,mg,active
+150,mcg + 30 mcg,active
+100,mg + 60 mg + 60 mg + 30 mg/ml,active
+250,mg/100 ml,active
+250,mcg + 600 mg + 1 mg + 40 mg + 1.8 mg + 5 mcg + 7.5 mg,active
+327,mg + 1 gm + 500 mg + 400 IU,active
+3,gm,active
+20000,IU,active
+40000,IU,active
+150,mcg,active
+300,mcg,active
+2000,IU,active
+2.5,mg + 500 mg,active
+2.5,mg + 1000 mg,active
+1.5,gm/100 ml,active
+400,mg + 200 mg + 50 mg/100 ml,active
+75,mcg,active
+500,mcg + 400 mcg,active
+400,mg + 100 mg,active
+250,mg/2 ml,active
+50,gm/100 ml,active
+400,mg/10 ml,active
+1,gm/25 ml,active
+2500,mg + 250 mg/25 ml,active
+500,mg + 50 mg/5 ml,active
+600,mg + 750 mg,active
+875,mg + 125 mg,active
+500,mg + 100 mg,active
+250,mg + 125 mg,active
+18,mcg,active
+400,mg + 57.5 mg/5 ml,active
+1,gm + 200 mg,active
+80,mg/.8 ml,active
+60,mg/.6 ml,active
+40,mg/.4 ml,active
+20,mg/.2 ml,active
+45,gm/100 gm,active
+1.5,mg + 25 mg + 35 mg + 100 mg + 18 mg,active
+1.2,gm + 1.8 gm,active
+1000,mg/20 ml,active
+750,mg/15 ml,active
+5,mg + 500 mg,active
+165,mg,active
+82.5,mg,active
+5,mg + 2.5 mg,active
+1.25,mg,active
+12.5,mg + 5 mg,active
+500,mg + 327 mg + 578 mg + 422 mg,active
+40,mcg/.4 ml,active
+60,mcg/.3 ml,active
+100,mcg/.5 ml,active
+5,gm + 30 gm/100 ml,active
+100,mg + 100 mg + 2.5 gm + 2.5 gm/100 gm,active
+1000,mg/10 ml,active
+2,gm/10 ml,active
+5,gm/25 ml,active
+10,gm + 2 gm/100 ml,active
+20,gm/100 ml,active
+62.5,gm/100 gm,active
+9,gm + 495 mg/30 ml,active
+30,gm + 1.65 gm/100 ml,active
+500,mg/50 ml,active
+18,gm + 15 gm + 3 gm/100 gm,active
+10,gm + 5 mg + 1.87 gm + 2.3 gm + 3.73 gm/100 ml,active
+10.2,gm + 100 mg + 10.2 gm/100 gm,active
+100,ml,active
+250,ml/250 ml,active
+2.5,mg/.5 ml,active
+5,mg/.5 ml,active
+7.5,mg/.5 ml,active
+.25,mcg + 252 mg,active
+35,mg,active
+10,mg + 5 mg,active
+25,mg + 5 mg,active
+100,IU/ml,active
+500,mcg/.5 ml,active
+200,mcg + 62.5 mcg + 25 mcg,active
+10,mg + 100 mg,active
+25,mg + 250 mg,active
+70,mg,active
+24,mg + 26 mg,active
+49,mg + 51 mg,active
+97,mg + 103 mg,active
+10,mg + 10 mg,active
+20,mg + 10 mg,active
+1.666,gm + 1.666 gm + 1.666 gm,active
+1.4,gm + 2 gm,active
+9.1,mg + 50 mg + 20 mg + 100 mg + 25 mg,active
+25,gm + 1.5 gm + 1.5 gm + 7 gm + 65 gm/100 gm,active
+1,Lac IU + 20000 IU + 20 mg/ml,active
+5,Lac IU + 75000 IU + 50 mg/ml,active
+40,gm + 8 gm/100 ml,active
+46,gm/100 gm,active
+10,gm + 2 gm/100 gm,active
+36,gm/100 gm,active
+2,gm + 2 gm,active
+34,gm/100 ml,active
+208,mg + 200 mg + 50 mg/ml,active
+3,gm + 3 gm + 2 gm + 20 gm + 2 gm/100 gm,active
+2,gm/100 ml,active
+6.7,gm + 20 gm/100 gm,active
+98,gm + 2 gm/100 gm,active
+18,gm + 5 gm + 50 gm + 26.6 gm + 20 Lac IU,active
+400,mg + 800 mg + 150 mg + 500 mg + 2 gm/100 ml,active
+500,mg + 1.5 mg + 450 mg + 97.5 gm + 25 mg + 750 mg + 150 mg + 400 mg + 200 mg + 1 mg/100 gm,active
+40,mg/gm,active
+10,ml,active
+1.45,ml + 4.17 ml + 75 ml/100 ml,active
+4,gm + 10 gm + 30 gm/100 gm,active
+665,mg,active
+150,mg + 225 mg,active
+400,mg/5 ml,active
+4.05,mg/5 ml,active
+10,mg + 5 mg + 1 mg + 1 mg + 5000 IU + 1.6 mg + 50 mg + 1000 IU/ml,active
+60,mg + 10.92 mg + 2 mg + 6 mcg + 50 mg + 400 mcg + 1 mg + 20 mg + 196 mcg + 11.141 mg + 2 mg + 1.7 mg + 1.5 mg + 1.5 mg + 10 mcg + 15 IU + 41.16 mg,active
+1000,mg + 200 mg,active
+9.1,mg + 50 mg + 20 mcg + 100 mg + 25 mg,active
+175,mg + 25 mg + 5 mcg + 500 mcg + 100 mg + 10 mg + 25 mg + 50 mg,active
+3.5,gm,active
+7.5,gm/100 gm,active
+100,mg + 1 gm/100 gm,active
+100,mg + 500 mg/100 gm,active
+20,mg/5 ml,active
+15,%,active
+47,mg + .5 mg + 10 mg + 1 mg + 2 mg + 2 mg + 50 mg + 22.5 mg,active
+300,mg/100 gm,active
+5,mg + 100 mg + 10 mg + 4 mg + 50 mg/2 ml,active
+2,mcg + 5 mg + 2 mg + 100 mg + 10 mg + 5 mg + 5 mg + 50 mg/ml,active
+2,mg/ml,active
+1,ml,active
+75,ml/100 ml,active
+4.8,%,active
+300,mg/ml,active
+2,gm + 100 mg + 1 gm/100 gm,active
+130,mg + 280 mg + 40 mg/100 ml,active
+16,mg,active
+6,gm/100 gm,active
+1,gm/10 ml,active
+100,mg + 1500 mg,active
+84,mg/ml,active
+30,mg/100 gm,active
+20,mg + 1 mg/gm,active
+3.5,mg + 10000 IU + 10 mg/gm,active
+400,mg/100 gm,active
+320,mg,active
+35,mg/3.5 ml,active
+.75,gm + 25 gm + 1.3 gm + 1.45 gm/500 ml,active
+400,mg + 40 mg + 40 mg + 100 mg + 200 mg/100 ml,active
+500,mg + 22.5 mg,active
+100,mg + 100 mg,active
+125,mg/5ml,active
+200,mcg/ml,active
+75,mg/3 ml,active
+450,mg,active
+150,mg + 300 mg,active
+200,mg + 225 mg/5 ml,active
+100,mg + 150 mg,active
+15,gm + 5 gm/100 ml,active
+1,% + 1 % + 1 %,active
+25,mg + 250 mg + 100 Lac IU + 100 mg/100 gm,active
+5,mg/100 gm,active
+200,mg + 400 mcg,active
+100,mg + 20 mg,active
+200,mg + 200 mcg,active
+30,mg + .16 mg + 12.5 mg + .3 mg + 5 mg,active
+.01,gm + 4 gm + .05 gm/100 gm,active
+1,gm + 1 gm/100 gm,active
+2,gm/100 gm,active
+17,gm,active
+2.5,mg + 250 mg,active
+.1,%,active
+.75,ml + 1.93 ml/5 ml,active
+.5,%,active
+100,mg + 25 mg/100 ml,active
+3,gm/100 gm,active
+500,IU + 10000 IU/gm,active
+200,mg + 500 mg/100 ml,active
+4,mg/100 ml,active
+5,mg + .04 mg/ml,active
+100,mg + 300 mg/100 ml,active
+200,mg + 125 mg/5 ml,active
+400,mg + 40 mg + 50 mg + 100 mg + 200 mg/100 ml,active
+1.035,gm,active
+150,mg/5 ml,active
+250,mcg,active
+300,mg + 1 gm/100 ml,active
+2,gm + 1 gm/100 gm,active
+5,mg + 20 mg/100 ml,active
+80,mg/2 ml,active
+100,mg + 350 mg + 6000 IU/100 ml,active
+100,mg + 350 mg + 6000 IU/100 gm,active
+50,mg + 8 mg/ml,active
+3,mg/ml,active
+100,mg + 300 mg/100 gm,active
+8,mg + 12.5 mg,active
+16,mg + 12.5 mg,active
+400,IU + 3.5 mg + 5000 IU/gm,active
+500,mg + 1 mg,active
+.5,gm/100 ml,active
+45,mg,active
+.5,gm + .3 gm/100 ml,active
+1,gm + .02 gm/100 ml,active
+5,mg + 9 mg/ml,active
+3,mg + 59 mg + 250 IU + 1.5 mcg + 250 mcg + 125 mcg + 5 mg + 15 mg + 7.5 mg + 45.6 mg + 750 mcg + 750 mcg + 500 mcg + 15 mg + 5.2 IU + 8 mg,active
+45,mcg + 43.31 mg + 400 IU + 20 mcg + 2 mg + 6 mcg + 220 mg + 400 mcg + 150 mcg + 18 mg + 40 mg + 1 mg + 20 mcg + 20 mg + 10 mg + 2 mg + 1.7 mg + 1.5 mg + 1015 IU + 2485 IU + 60 mg + 60 mg + 10 mcg + 15 mg,active
+25,mcg/Metered Inhalation,active
+50,mcg/Puff,active
+5,mg + 10 mg + 5 mg + 10 mg,active
+200,mg + 35000 IU + 1 Lac IU + 35000 IU,active
+2,ml,active
+.05,gm/100 ml,active
+150,mg/100 gm,active
+.1,gm/100 ml,active
+.3,gm/100 gm,active
+.6,gm/100 ml,active
+4000,IU/.4 ml,active
+100,mg + .06 mg + .005 mg + .4 mg + 40 mg + 15 mg + 4 mg + 3.6 mg + 2.5 mg/vial,active
+2,gm + 500 mg/100 ml,active
+350,mg + 127 mg + 500 mg/100 ml,active
+27.5,mcg/Spray,active
+40,IU/ml,active
+.05,gm + 3 gm/100 gm,active
+500,mg + 1 gm + 500 mg + 1 gm/100 gm,active
+200,mg + 1 gm/100 ml,active
+50,mg + 1 gm + 100 mg/100 gm,active
+.9,gm/100 ml,active
+500,mg/100 gm,active
+1.5,mg/100 ml,active
+2.5,mg + 850 mg,active
+100,mg + 20 mg + 5 mg + 2 mg + 60 mg/gm,active
+50,mg + 40 mg/100 ml,active
+20,mg + 20 mg,active
+.2,%,active
+25,mcg,active
+5,mg + 1000 mg,active
+11,mg,active
+500,mg/4 ml,active
+120,mg/100 ml,active
+700,mg/100 ml,active
+250,mcg + 50 mg + 2.5 mg + 1500 IU + 250 mcg + 2 mcg + 250 mcg + 250 mcg + 50 mg + 100 IU + 10 IU,active
+32,mg/3.2 ml,active
+500,mcg + 2.5 mg/3 ml,active
+20,mg/100 ml,active
+500,mcg/2 ml,active
+160,mg/100 ml,active
+60,mcg/.5 ml,active
+160,mcg + 4.8 mcg + 9 mcg/Puff,active
+12.5,mg + 500 mg,active
+12.5,mg + 1000 mg,active
+10,mg + 1000 mg,active
+25,mg + 1000 mg,active
+250,mcg/.5 ml,active
+100,mcg + 62.5 mcg + 25 mcg,active
+175,mcg/3 ml,active
+10,mg + 6.25 mg,active
+250,mcg + 10 mg + 20 mg + 3 mg/ml,active
+300,mg + 500 mg/100 ml,active
+25,mg/100 ml,active
+10,mg/100 ml,active
+250,mg + 1 gm/vial,active
+24,mg/100 ml,active
+1.25,gm/100 ml,active
+12.5,mg + 100 mg,active
+625,mcg + 2 mg,active
+1.25,mg + 4 mg,active
+45.5,mg/2 ml,active
+300,mg/2 ml,active
+600,mg/4 ml,active
+50,mg/vial,active
+200,mg/40 ml,active
+.25,mcg,active
+250,mg/10 ml,active
+.2,ml,active
+200,mg/vial,active
+6,mg/2ml,active
+4.505,gm/500 ml,active
+500000,IU/10 ml,active
+450,mg/45 ml,active
+150,mg/15 ml,active
+20,mg/.5 ml,active
+60,gm + 9 gm/1000 ml,active
+50,mg/2.5 ml,active
+4.5,MIU/.5 ml,active
+10,mg/vial,active
+180,mcg/vial,active
+1000,mg/vial,active
+1,mg/vial,active
+2,mg/vial,active
+20,mg/10 ml,active
+300,mg/50 ml,active
+.075,mg/1.5 ml,active
+.25,mg/vial,active
+1,mcg,active
+135,mcg/vial,active
+8,mcg,active
+100,mg/10 ml,active
+400,mg/4 ml,active
+50,mg/250 ml,active
+5,gm + 900 mg/100 ml,active
+440,mg,active
+100,mg/4 ml,active
+24,mcg,active
+6,mg/.6 ml,active
+100,mcg/ml,active
+25000,IU/5 ml,active
+100,mg/20 ml,active
+400,mg/16 ml,active
+2,mg/2 ml,active
+150,mg/vial,active
+25,mg/vial,active
+40,mg/100 ml,active
+140,mg,active
+15,Unit/vial,active
+80,mg/4 ml,active
+900,mg + 100 mg,active
+10,mg/10 ml,active
+83.333,ml/100 ml,active
+143,mg/5 ml,active
+40,mg/4 ml,active
+1,mg/8.5 ml,active
+20,ml,active
+300,mg + 4 gm + 300 mg/100 ml,active
+4,mg/4 ml,active
+37.5,mg,active
+267,mg,active
+534,mg,active
+801,mg,active
+365,mg,active
+3,gm/100 ml,active
+10000,IU/vial,active
+5000,IU/vial,active
+18,mg,active
+260,mg,active
+25,mg/10 ml,active
+12.5,mg/5 ml,active
+50,mg/25 ml,active
+80,mg + 250 mg + 133.5 mg,active
+6.14,mg + 15 mg,active
+8.19,mg + 20 mg,active
+30,mg/vial,active
+60,mg/vial,active
+36,mg,active
+12.5,mg/250 ml,active
+1,mg/.5 ml,active
+40,mg/.8 ml,active
+600,mg/300 ml,active
+5,mg + 5 mg,active
+65,mg,active
+1.7,mg/.75 ml,active
+2.4,mg/.75 ml,active
+100,mg + 60 mcg + 5 mcg + 15 mg + 400 mcg + 40 mg + 4 mg + 3.6 mg + 2.5 mg/vial,active
+200,mg + 250 mg/5 ml,active
+313,mg + 1.583 gm + 1.583 gm + 1.583 gm,active
+250,mg + 200 mg/gm,active
+10,Lac IU + 30 Lac IU,active
+1,gm + 5 gm/100 ml,active
+10,mg + 5 mg + 2 mg + 100 mg + 50 mg + 2 mcg + 5 mg + 5 mg/ml,active
+1000,IU,active
+48,mg + 500 mcg + 61.8 mg,active
+325,mg,active
+30,gm/100 ml,active
+200,mcg/Metered Inhalation,active
+1,mcg/Spray,active
+200,mg + 200 mg + 30 mg,active
+2,mg/gm,active
+20,mcg/Metered Inhalation,active
+350,mg,active
+125,mcg,active
+100,mg + 2 mg,active
+12.5,mg + 150 mg,active
+2,mg + 400 mg + 400 IU,active
+10,mg + 20 mg,active
+17,mg,active
+51,mg,active
+425,mg,active
+9,mcg/Metered Inhalation,active
+100,mg + 25 mg,active
+50,mg + 2.5 gm + 100 mg/100 gm,active
+12,gm/100 gm,active
+80,mcg/Metered Inhalation,active
+160,mcg/Metered Inhalation,active
+60,mg/5 ml,active
+4,mg/2 ml,active
+10,mg + 160 mg,active
+600,mcg,active
+15,gm/100 gm,active
+.6,gm/100 gm,active
+60,mg/ml,active
+3.125,mg,active
+2200,IU/ml,active
+25,mg + 500 mg + 50 mg + 20 mg + 250 mg/10 ml,active
+275,mg,active
+.1,gm + 2.5 gm/100 gm,active
+50,mcg + 110 mcg,active
+.03,gm/100 ml,active
+2.5,mg/3 ml,active
+25,ml + 6 gm/100 ml,active
+500,mg + 20 mg,active
+150,mg + 200 mg + 300 mg,active
+5,% + .9 %,active
+48,mg + 30 mg + 75 mg + 390 mg + 490 mg + 170 mg/100 ml,active
+27,mg + 40 mg + 600 mg + 320 mg/100 ml,active
+370,mg/ml,active
+100,mg + 650 mg + 500 mg/100 ml,active
+4.3,gm + 180 mg/100 ml,active
+5,gm + 225 mg/100 ml,active
+5,gm + 450 mg/100 ml,active
+.075,mg,active
+50,mcg + 5 mcg/Puff,active
+125,mcg + 5 mcg/Puff,active
+250,mcg + 10 mcg/Puff,active
+3.5,gm + 135 mg,active
+.03,mg + 75 mg + .3 mg,active
+200,mg + 50 mg,active
+30,mg + 50 mg + 60 mg,active
+10,mg + 40 mg,active
+25,mcg/ml,active
+125,mcg + 50 mcg/Metered Inhalation,active
+300,mg/vial,active
+1.34,mg/ml,active
+55,mg/100 ml,active
+10,mg + 80 mg,active
+2000,IU/ml,active
+100,mcg + 25 mcg,active
+200,mcg + 25 mcg,active
+2,mg + 125 mg,active
+500,mg + 500 mg + 20 mg,active
+80,mcg + 90 mcg,active
+25,mg + 10 mg,active
+400,IU/ml,active
+62.5,mcg + 25 mcg,active
+50,gm + 50 gm/100 gm,active
+10,%,active
+2,gm + 5 gm,active
+1.356,gm + 100 mg + 4.6 gm + 100 mg + 800 IU/100 ml,active
+75,mg/15 ml,active
+25,mg/gm,active
+100,mg + 2 gm/100 gm,active
+.091,gm + .042 gm + .063 gm/100 ml,active
+100,mcg + 100 mg/ml,active
+75,mg + 100 mg/100 ml,active
+500,gm + 100 mg + 40 gm + 80 gm + 380 mg + 12.5 gm/KG,active
+100,mg + 20 mcg/ml,active
+50,mg + 100 mg/ml,active
+6.75,gm + 750 mg + 1.3 gm + 1.45 gm/500 ml,active
+.6,mg/ml,active
+40,gm,active
+100,Lac IU + 20 Lac IU + 2 gm,active
+25,mg/ml,active
+50,mcg + 35 mg + 25 mg + 3 mg + 5 mg + 15 Lac IU + 10 mg + 1 Lac IU + 20 mg/100 ml,active
+50,mg/2 ml,active
+100,mg + 150 mg/100 ml,active
+15,mg + 30 mg/ml,active
+150,mg + 150 mg,active
+5,IU/ml,active
+2.5,mg/5ml,active
+75,mg + 1 gm,active
+2.5,gm/5 ml,active
+25,gm + 5 gm + 3 gm/100 ml,active
+20,mg + 150 mg/ml,active
+10,mg + 20 mg + 10 mg + 50 mg + 20 mg/100 ml,active
+2,mg + .1 mg + .525 mg + 50 mg + 1.425 mg + .02 mg + .02 mg + .525 mg + .6 mg + .525 mg + .35 mg + .35 mg + .175 mg + .525 mg + 2 mg + .08 mg + 3 mg + 2 mg + .1 mg + .05 mg + 7.5 mg + .1 mg/ml,active
+755,mg/ml,active
+625,mg/100 ml,active
+2.5,gm + 2 gm + 2.5 gm + 1.25 gm + 1 gm/100 gm,active
+2,Lac IU,active
+47,mg + 500 mcg + 22.5 mg,active
+150,mg + 800 mg,active
+180,mg + 10 mg,active
+50,mg + 50 mg + .5 mg + 10 mg + 1 mg + 2 mg + 2 mg,active
+25,mg + 500 mg,active
+85,IU,active
+30.5,gm/100 ml,active
+6.4,mg,active
+50000,IU,active
+6,mg + 1 mg + 3 mg + 70 mcg + 200 mg + 50 mg + 75 mcg + 15 mg,active
+1,Lac IU,active
+60,mg + 30 mcg + 150 mcg + 200 mg + 150 mcg + 2 mg + 25 mcg + 400 mcg + 150 mcg + 250 mcg + 100 mg + 2 mg + 75 mcg + 20 mg + 5 mcg + 10 mg + 48 mg + 80 mg + 3 mg + 1.7 mg + 20 mcg + 2 mg + 10 mcg + 5000 IU + 1.5 mg + 400 IU + 45 IU + 10 mcg + 15 mg,active
+250,mg + 200 mg,active
+4,mg/gm,active
+12.5,mg + 2.5 mg,active
+12.5,mg + 160 mg,active
+1.5,MIU,active
+3,MIU,active
+145,mg,active
+2,%,active
+4,gm/100 gm,active
+5,gm + 1 gm/100 gm,active
+.005,gm/100 gm,active
+.05,gm + .005 gm/100 gm,active
+800,IU,active
+.05,gm + .75 gm + 2 gm + 1 gm/100 gm,active
+600,IU,active
+1,mg + 500 mg,active
+2,mg + 500 mg,active
+625,mcg,active
+2,mg + 35 mcg,active
+10,IU/ml,active
+75,IU/vial,active
+1.388,mg/ml,active
+3.47,mg/ml,active
+3,ml,active
+250,mg + 500 mg,active
+100,mg + 50 mg,active
+5,mg/gm,active
+400,mg/100 ml,active
+1,mg/1ml,active
+300,mg + 150 mg,active
+35.5,gm/100 ml,active
+10,gm + 750 mg + 1.25 gm + 1.75 gm,active
+10,% + 2 %,active
+33.3,gm/100 ml,active
+7,mg + 2 mg + 1.2 mg + 200 mg + 150 mg + 1000 mg + 50 mg + 20 mg + 750 mg/10 ml,active
+50,mg + 500 mcg,active
+540,mg,active
+1080,mg,active
+50,mg + 100 mg/100 gm,active
+75,mg/gm,active
+800,mg + 200 mg,active
+4,mg + 100 mg + 5 mg + 100 mg + 50 mg + 1 mg + 300 mg,active
+250,mg + 140 mg/ml,active
+80,mg/vial,active
+40,mcg + 160 mcg + 4 mg + 4.8 mcg + 40 mg + 24 mg + 320 mcg + 160 mcg + 24 mg + 24 mg + 16 mg + 16 mg + 1.6 mg + 2 mg + 60 mcg + 4800 IU + 1 mg + 960 IU + 9.2 mg + 800 mcg + 20 mg,active
+20,mcg + 100 mcg + 3.2 mg + 4 mcg + 20 mg + 12.8 mg + 200 mcg + 200 mcg + 12 mg + 20 mg + 10 mg + 4.8 mg + 1.6 mg + 2 mg + 60 mcg + 4800 IU + 600 mcg + 960 IU + 10 mg + 800 mcg + 16 mg,active
+16,mcg + 100 mcg + 2.4 mg + 4 mcg + 20 mg + 9.6 mg + 200 mcg + 200 mcg + 12 mg + 240 mg + 12 mg + 3.2 mg + 1.6 mg + 2 mg + 48 mcg + 4800 IU + 600 mcg + 960 IU + 9.2 mg + 800 mcg + 16 mg,active
+5,mg + 2 mg + 1 mcg + 2 mg + 2 mg + 4 mg + 4 mg + 10000 IU + 1.2 mg + 30 mg + 2500 IU + 4 mg + 3.2 mg,active
+1,Lac Unit/gm,active
+500,mg/gm,active
+550,mg/gm,active
+.75,mg + 25 gm + 1.3 mg + 1.45 gm,active
+1.111,gm + 137.333 gm/KG,active
+66.67,gm/100 ml,active
+1,gm + 500 mg/100 ml,active
+200,mg/10 ml,active
+25,mg + 160 mg,active
+3,gm + 1 gm/100 gm,active
+1.3,gm + 1 gm/50 gm,active
+600,mg/vial,active
+20,mg/vial,active
+450,mg/vial,active
+225,mg/vial,active
+.2,mg,active
+.3,mg,active
+.4,mg,active
+105,mg + 45 mg,active
+65,mcg/1.3 ml,active
+62.5,mg + 20 mg + 20 mg,active
+80000,IU + 40000 IU + 20 mg/ml,active
+1,gm + 5 gm + 5 gm + 320 mg/100 ml,active
+22.2,gm/100 gm,active
+446,mg,active
+40,% + 8 %,active
+.93,gm + 2.97 gm/100 gm,active
+100,mg + 40 mg,active
+110,mg + 60 mg,active
+4,gm,active
+250,mg/100 gm,active
+1.5,gm/100 gm,active
+150,mg + 100 mg,active
+7,mg,active
+2.5,mcg,active
+50,mcg + 35 mg + 25 mg + 3 mg + 5 mg + 15000 IU + 10 mg + 1000 IU + 20 mg/100 ml,active
+50,mg + 2.5 mg + 450 mg,active
+5,mg + 5 gm + 500 mg + 150 mg + 2.5 gm/100 ml,active
+10,gm + 150 gm/160 gm,active
+100,IU/10 ml,active
+50,Lac IU + 7.5 Lac IU + 500 mg/10 ml,active
+3,gm + 2.82 gm + 350 mg + 4.77 gm + 100 mg/100 gm,active
+300,mg + 100 mg/100 gm,active
+10,mg + 3400 IU + 10000 IU/ml,active
+500,mg + 500 mg/100 gm,active
+2500,IU + 1.7 Lac IU + 5 Lac IU/100 ml,active
+12,Lac Unit/vial,active
+6,Lac Unit/vial,active
+10,Lac Unit,active
+5,Lac Unit,active
+2.5,gm/100 gm,active
+42.5,gm + 57.3 gm + 200 mg/100 gm,active
+6,mg + 1.86 mg + 120 mcg/.6 ml,active
+20,gm + 250 mg + 250 mg + 450 mg/100 ml,active
+6.5,gm + 250 mg + 250 mg + 450 mg/100 ml,active
+.01,gm + 8.714 gm/100 gm,active
+.022,gm/100 ml,active
+3,gm + 2 gm/100 gm,active
+4.5,mg,active
+4,gm + 25 mg + 2 gm/100 gm,active
+10,gm + 10 gm + 5 gm/100 gm,active
+150,mg + 120 mg/100 ml,active
+50,mg + 700 mg + 13.3 mg/100 gm,active
+1.2,gm/30 ml,active
+3,gm + 300 mg/30 ml,active
+1.5,gm/30 ml,active
+40,mg + 200 mg/10 ml,active
+0,Size,active
+1,Size,active
+2,Size,active
+3,Size,active
+4,Size,active
+100%,,active
+5.25,gm/100 ml,active
+5,mg + 15 mcg + 100 mcg + 250 mcg + 7.5 mg + 4.5 mg + 1.5 mg + 4 mg + 2 mg/gm,active
+6,mg + 800 mcg + 80 mg + 2.5 mg + 50 mg + 100 mcg + 10000 IU + 1000 IU + 10 mg + 45 mg,active
+25,%,active
+4.5,gm + 1.25 gm + 12.5 gm + 6.65 gm + 50000 IU,active
+3,Lac IU + 1 Lac IU + 50 mg,active
+1.5,mg/5 ml,active
+280,mg + 40 mg/100 ml,active
+50,mg + 3 gm/100 gm,active
+20,gm + 1.5 gm + 3.5 gm + 2.9 gm/Litres,active
+.514,% + .356 % + .521 % + 18.088 % + 19.84 %,active
+200,mg/2 ml,active
+18,mcg + 20 mg/ml,active
+9,mg + 70 mg + 1.189 mg + 594.57 mg + .03 mg + 5.94 mg/100 ml,active
+33,mg + 30 mg + 860 mg/100 ml,active
+2.7,mg + 4 mg + 7.3382 mg/100 ml,active
+35,gm + 15 gm,active
+100,mcg/2 ml,active
+9.74,gm + 8.84 gm + 3.74 gm + 5.5 gm + 161.43 gm/1000 ml,active
+66,gm + 30.5 gm/Litres,active
+2.4,gm/100 ml,active
+7.1,gm/100 ml,active
+7,gm + 19 gm/118 ml,active
+110,mg,active
+120,mcg/.2 ml,active
+1000,IU/.5 ml,active
+3,mg/3 ml,active
+180,mg/5 ml,active
+400,mg/vial,active
+.75,gm + 25 gm + 1.3 gm + 1.45 gm,active
+12,ml/100 ml,active
+240,mg/100 ml,active
+50,mg + 30 mg/gm,active
+300,mg + 400 mg + 800 mg + 200 mg/100 gm,active
+240,mg,active
+50,mg/5ml,active
+100,mg + 350 mg/100 ml,active
+9,mg/ ml,active
+2.5,mg + 100 mg,active
+75,mg/5 ml,active
+630,mcg/3 ml,active
+1.25,mg/3 ml,active
+750,mg/100 gm,active
+360,mcg/3 ml,active
+250,mg/50 ml,active
+137,mcg/Metered Inhalation,active
+60,mg/100 gm,active
+2,gm + 25 mg/100 ml,active
+30,MIU/ml,active
+500,mcg + 2.5 mg/2.5 ml,active
+1,mg/2 ml,active
+150,mg/ml,active
+.5,gm + .1 gm/10 ml,active
+3,MIU/.5 ml,active
+30,ml + 5 gm + 7.06 gm/120 ml,active
+.5,ml,active
+.15,gm/100 gm,active
+.6,mg,active
+.5,gm/50 ml,active
+400,mg/200 ml,active
+75,mg/100 ml,active
+2,gm + 3 gm + 8 gm + 2 gm/100 ml,active
+125,mg + 69 mcg + 220 IU + 6 mcg + 11.2 IU + 414 mcg + 46 mg + 17.25 mg + 5.5 mg + 3500 IU + 4.14 mg + 3.51 mg/vial,active
+750,mg + 750 mg/vial,active
+60,mg/100 ml,active
+250,mg + 300 mg/100 ml,active
+200,mg + 300 mg,active
+13.125,gm + 46.6 mg + 178.5 mg + 350.7 mg,active
+5,mg + 30 mg/gm,active
+1000,mg + 100 mg,active
+408,mg,active
+6.5,gm/100 gm,active
+200,mcg/2 ml,active
+120,mg/1.7 ml,active
+420,mg/14 ml,active
+27.2,mg/5 ml,active
+11.25,mg/.5 ml,active
+5,mg/2.5 ml,active
+360,mcg,active
+1.3,gm/100 gm,active
+9,mg,active
+60,mg + 1200 mg,active
+37.5,mg/5 ml,active
+300,gm/300 gm,active
+300,mg/15 ml,active
+15,mcg/2 ml,active
+120,mg/4 ml,active
+30,mg/3 ml,active
+250,mcg/2 ml,active
+25,mg + 80 mg,active
+14,mg,active
+40,mg + 12.5 mg,active
+15,mg/Spray,active
+100,mg + 125 mg/100 ml,active
+87.5,mg + 225 mg,active
+120,mg/120 Spray,active
+10,mg + 28 mg,active
+10,mg + 7 mg,active
+10,mg + 14 mg,active
+65,mg/ml,active
+50,mcg + 150 mcg + 160 mcg,active
+900,mg + 200 mg/100 ml,active
+750,mg/100 ml,active
+3,mg + .03 mg,active
+30,mcg + 75 mcg,active
+150,mcg + 20 mcg,active
+37.5,mcg + 750 mcg,active
+3,mg + 20 mcg,active
+180,mg + 150 mg + 30 mg,active
+104,mg/.65 ml,active
+3,mg + 30 mcg + 451 mcg,active
+3,mg + 20 mcg + 451 mcg,active
+9.35,mg/ml,active
+1200,mg,active
+8,gm/100 gm,active
+10,mg/100 gm,active
+20,mg + 450 mcg,active
+250,mg + 200 mcg/10 ml,active
+1,mg + 500 mcg + 40 mg,active
+1,mg + 1 mg + 100 mg + 100 mg/gm,active
+.01,gm + .045 gm/100 gm,active
+200,mg + 2 gm/100 gm,active
+.01,gm/100 gm,active
+.625,mg/gm,active
+80,mg/gm,active
+3,gm/30 ml,active
+2.18,gm + 2.32 gm + 500 mg/5 gm,active
+50,mcg/gm,active
+0,%,active
+250,IU/ml,active
+99,%,active
+99.5,%,active
+20.4,%,active
+100,gm,active
+75,mg + 50 mg/ml,active
+5,mcg + 10 mg,active
+1.5,gm/10 ml,active
+2.5,%,active
+7.5,gm/100 ml,active
+25,mg + 500 mg/5 ml,active
+4,gm + 1 mg/100 ml,active
+20,mcg + 20 mg/ml,active
+360,mg,active
+80,% + 20 %,active
+70,% + 30 %,active
+30,% + 70 %,active
+10,gm + 750 mg + 1.75 gm + 1.45 gm/500 ml,active
+5.1,gm + 3.56 gm + 5.2 gm + 181.01 gm + 198.4 gm/Litres,active
+5,% + .225 %/100 ml,active
+.3,% + 2.55 % + .22 % + 2.63 %,active
+.0275,% + .3 % + 3.19 % + .22 % + 2.63 %,active
+.469,% + 1.008 % + .754 % + .554 % + 21.968 %,active
+7,% + .561 %,active
+5,% + .45 %,active
+1,No's,active
+10,gm + 225 mg/100 ml,active
+20,mg + 5 gm + 30 mg + 600 mg + 310 mg/100 ml,active
+10,gm + 900 mg/100 ml,active
+50,% + 50 %,active
+98,%,active
+50,mg + 1 gm/100 gm,active
+200,mg + 500 mcg,active
+20,mg + 10 mg + 100 mg + 50 mg/gm,active
+184,mg + 50 mg + 500 mg + 266 mg,active
+20,mg + 20000 IU + 1 Lac IU,active
+52.5,gm + .187 gm + .714 gm + 1.4 gm/100 ml,active
+1000000,IU + 20000 IU + 20 IU/ml,active
+9.1,mg + 50 mg + 2 mg + 100 mg + 25 mg,active
+4,gm + 390 mg + 0 gm + 150 mg + 15.2 gm/100 gm,active
+194,mg,active
+3,gm + .025 gm/100 gm,active
+1,gm + 1.8 gm + 400 mg,active
+950,mg + 1 mg + 8 mg + 2 mg/gm,active
+150,mg/30 ml,active
+3,gm/10 ml,active
+9,gm/30 ml,active
+900,mg/5 ml,active
+1.8,gm/10 ml,active
+5.4,gm/30 ml,active
+8.5,gm/100 gm,active
+31.25,gm + 29.415 gm/500 ml,active
+4,%,active
+125,mg/1.25ml,active
+5,mg + 850 mg,active
+12.5,mg + 850 mg,active
+19,mg + 149 mg/ml,active
+120,mg + 40 mg + 100 mg/100 ml,active
+100,mg + 500 mg + 150 mg,active
+300,mg + 500 mg + 450 mg,active
+150,mg + 500 mg + 300 mg,active
+300,mg + 450 mg,active
+50,mg + 100 mg,active
+400,gm/KG,active
+50,mcg + 2.5 mg,active
+150,mcg + 30 mcg + 75 mg,active
+2,mg + 2 mg,active
+72,mcg,active
+12.5,mcg,active
+3,mg + 14.2 mg,active
+740,mg/100 gm,active
+290,mcg,active
+1,gm + 12.6 gm + 14.5 gm/100 gm,active
+80,gm/100 ml,active
+.04,gm/100 gm,active
+250,mg + 25 mg + 50000 IU/100 ml,active
+10,Lac IU,active
+875,mg,active
+10,mg + 320 mg,active
+5,mg + 320 mg,active
+12.5,mg + 300 mg,active
+12.5,mg + 75 mg,active
+2,mcg,active
+2.6,mg + 32.5 mg/100 ml,active
+28,gm + 9 gm/100 ml,active
+157.5,mg/ml,active
+1,Lac IU + 200 mg + 1.5 Lac IU/ml,active
+50,mg + 300 mg/100 ml,active
+9.75,mg/1.3 ml,active
+18,gm + 2 gm/100 ml,active
+80,mg + 20 mg/ml,active
+25,mg + 5 gm + 1 gm + 1.73 gm/100 ml,active
+12,gm + 3.5 gm + 10 mg,active
+6.5,gm,active
+6,gm + 15 gm/100 gm,active
+11.25,gm/100 gm,active
+50,ml,active
+.,,active
+22,mg + 1.5 gm + 15 mg + 22 mg + 476 mg + 556 mg/100 ml,active
+1.87,%,active
+12,gm + 3.5 gm + 10 mg/160 ml,active
+4,gm + 12 gm/100 gm,active
+187.5,mg + 250 mg + 106.5 mg,active
+.4,gm/100 gm,active
+500,mg/ vial,active
+5000,IU/ml,active
+1500000,IU + 1500000 IU/vial,active
+2,Lac Unit + 6 Lac Unit/vial,active
+287,mg,active
+150,gm,active
+200,mg/20 ml,active
+48,mg + 30 mg + 75 mg + 390 mg + 640 mg + 170 mg/100 ml,active
+99.05,gm/100 ml,active
+8,mg/2 ml,active
+1,mg + 11 mg + 600 mg + 2 mg + 80 mg + 110 mg + 30 mg + 5 mg + 10 mg + 110 mg + 40 mg + 10 mg + 20 mg + 8 mg + 1.2 Lac IU + 25 mg + 24000 IU + 10 IU + 20 mg + 60 mg,active
+3,mg + 3 mg/gm,active
+2.5,gm,active
+80,mcg + 5 mg + 200 mcg + 5 mg + 5 mcg + 30 mg + 25 mg + 450 mcg + 250 mcg + 250 mcg + 18 mg + 6 mg + 2 mg + 2 mg + 50 mg + 2.5 mg + 5000 IU + 1 mg + 1000 IU + 10 IU + 1.5 mg + 20 mg,active
+70,mg + 4 mg/ml,active
+250,mg/ vial,active
+500,mg + 1 Lac IU/100 gm,active
+20,Lac Unit + 2.5 gm/vial,active
+15,IU + 2 mg + 60 mg + 18 mg + 5000 IU + 400 mcg + 15 mcg + 150 mcg + 1 mg + 20 mg + 10 mg + 100 mcg + 1.5 mg + 5 mg + 2 mg/10 ml,active
+500,mg + 500 mg/100 ml,active
+2075,mg/100 ml,active
+250,mg + 2 gm/100 gm,active
+872,mg + 750 mg,active
+.56,mg + .15 mg + .09 mg + 10 mg + 6 mg + .5 mg + .5 mg + .017 mg + .4 mg + .5 mg + .0009 mg + 30 mg + .005 mg + 5 mg + 4.1 mg,active
+60,gm + 6.65 gm,active
+500,mcg + 1 mg,active
+2.5,gm/50 ml,active
+400,mg + 2000 mg/100 ml,active
+625,mcg/gm,active
+250000,IU/gm,active
+400,mg/gm,active
+10,mg + 21 mg,active
+1500,mg,active
+231,mg,active
+.5,mg + 50 mg/ml,active
+15,mg + 1.5 gm/30 ml,active
+1,gm/50 ml,active
+500,mg + 400 IU,active
+500,mg + 105 mg,active
+650,mg,active
+500,mcg/3 gm,active
+200,IU + 2 mg + 400 mcg + 150 mcg + 30 mg + 18 mg + 65 mcg + 800 mcg + 1.4 mg + 2.6 mcg + 1.4 mg + 1.9 mg + 70 mg + 10 mg + 15 mg,active
+112.5,mg,active
+1,mg + 100 mg,active
+4,mg/vial,active
+37.5,mg + 12.5 mg,active
+75,mg + 25 mg,active
+1,Lac Unit,active
+500,Lac IU + 75 Lac IU + 5000 mg/100 ml,active
+200,mg + 1.5 gm/10 ml,active
+99.5,ml/100 ml,active
+285.27,gm,active
+99.77,gm + 1.56 gm + 101.14 gm + 20.64 gm + 2.06 gm + 4.13 gm + 4.13 gm + 143.38 gm,active
+5,gm + 180 mg/100 ml,active
+300,mcg + 5 mg/ml,active
+4.8,mcg + 9 mcg/Puff,active
+900,mcg/Spray,active
+40,Lac Unit,active
+12,mcg,active
+500,mcg/Metered Inhalation,active
+42,mg + 208 mg + 22 mg + 50 mg,active
+250,mg + 31.25 mg/5 ml,active
+5,mg/Metered Inhalation,active
+2,mg/Metered Inhalation,active
+400,mcg/ml,active
+750,mg/10 ml,active
+95,mg,active
+1,mg/Metered Inhalation,active
+500,mg + 125 mg/5 ml,active
+300,mg + 150 mg + 300 mg,active
+2.5,gm + 1 gm/100 gm,active
+300,mcg/ml,active
+200,IU,active
+400,IU,active
+.5,mg/100 gm,active
+3,gm + 8 gm/100 gm,active
+500,mg + 440 IU,active
+150,mg + 12.5 mg,active
+9,gm + 25 gm + 4 gm + 400 mg + 200 mg + 2 gm/100 ml,active
+20,mg + 20 gm/100 ml,active
+7,gm + 37.5 gm/100 ml,active
+140,mg + 35 mg/ml,active
+200,mg + 12 gm/100 ml,active
+1670,mg,active
+18.2,mg + 72.6 mg,active
+2.5,gm + 3.5 gm + 1500000 IU + 1 gm + 2.5 gm + .5 gm + 2.5 mg + .3 gm + 2 gm/100 ml,active
+.1,gm + 5 gm/100 ml,active
+92,mg + 42 mg + 60 mg + 20 mg + 64 mg/100 ml,active
+50,mg + 5 mg/100 gm,active
+2,gm + 100 mg/100 gm,active
+15,gm,active
+250,mcg + 500 mcg,active
+1,MIU/vial,active
+10,ml + 2 gm/100 ml,active
+250,mg + 81.16 gm + 15 gm/100 gm,active
+10,gm + 150 gm,active
+200,gm/ Litres,active
+15,gm + 50 gm/100 ml,active
+666.67,mg + 333.33 mg/gm,active
+50,gm + 10 gm/100 ml,active
+13.89,gm + 2.78 gm + 83.33 gm/100 gm,active
+60,%,active
+120,mg/3 ml,active
+1,gm/2 ml,active
+600,mg + 42.9 mg/5 ml,active
+150,mcg + 20 mcg + 75 mg,active
+3,mg + 20 mcg + 75 mg,active
+3,mg + 30 mcg + 75 mg,active
+50,mcg + 75 mg + 2.5 mg,active
+375,mcg + 75 mg + 750 mg,active
+100,mg + 25 mg/gm,active
+652,mg/ml,active
+125,mg/vial,active
+10,mcg + 20 mg/ml,active
+68,mg,active
+80,%,active
+12,gm/100 ml,active
+2,gm + 20 gm,active
+400,mg + 84.4 mg/ml,active
+647,mg/ml,active
+100,mg/1 ml,active
+440,mg/vial,active
+330.9,mg/ml,active
+550,mg/ml,active
+40,mg + 30 mg/ml,active
+150,IU/vial,active
+600,mg/30 ml,active
+2,gm/20 gm,active
+60,gm/100 gm,active
+40,mcg,active
+4.72,gm + 100 mg + 2 gm,active
+4,gm + 50 mg + 2 gm,active
+15,gm/vial,active
+240,mg/2 ml,active
+20,gm + 4 gm/100 ml,active
+150,Lac IU + 22.5 Lac IU + 1500 mg/30 ml,active
+100,mg + 750 mg/5 ml,active
+10,Lac IU + 2 gm + 15 Lac IU/10 ml,active
+50,Lac IU + 10 gm + 75 Lac IU/50 ml,active
+1.5,gm + 6 gm/30 ml,active
+60,mg/30 ml,active
+4.5,gm/30 ml,active
+3.216,gm + 17.5 gm + 8 gm + 600 mg/100 ml,active
+22.2,gm + 44.4 gm/100 gm,active
+110,mg + 4.8 gm/100 gm,active
+81,mg,active
+1,gm + 1.8 gm + 400 mg/100 gm,active
+5,mcg + 50 mcg/Puff,active
+5,mcg + 100 mcg/Puff,active
+5,mcg + 200 mcg/Puff,active
+14.375,gm + 70 gm + 22.5 gm/250 ml,active
+28.75,gm + 140 gm + 45 gm/500 ml,active
+100,mcg + 6 mcg + 10 mcg/Puff,active
+1,mg + 2.5 mg,active
+120,mg + 600 mg/30 ml,active
+200,mg + 1000 mg/50 ml,active
+5.75,gm + 28 gm + 9 gm/100 ml,active
+62.5,mg,active
+24,gm + 54.22 gm/100 ml,active
+12,gm + 4 gm + 2 gm/100 gm,active
+27,mg,active
+16.74,gm + 16.74 gm/100 ml,active
+17,gm/100 ml,active
+750,mg + 15 gm/100 ml,active
+200,mg/100 gm,active
+137,mcg + 50 mcg,active
+500,gm/KG,active
+7,gm + 7 gm/100 gm,active
+25,mg + 200 mg,active

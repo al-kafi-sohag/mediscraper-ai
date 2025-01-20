@@ -1,0 +1,21 @@
+name,slug,generic_id,company_id,strength_id,dose_id,price,status,created_at,use_for,dar
+Nimocon 500,nimocon-500,1,1,1.0,1,0.0,0,2025-01-18 19:51:36,Human,394-0001-023
+Adbon,adbon,2,1,2.0,1,0.0,0,2025-01-18 19:51:36,Human,394-0002-062
+Opental 50,opental-50,3,1,3.0,1,0.0,0,2025-01-18 19:51:36,Human,394-0003-065
+Acidex 20,acidex-20,4,1,4.0,2,0.0,0,2025-01-18 19:51:36,Human,394-0004-067
+Neutin 600,neutin-600,5,1,5.0,1,0.0,0,2025-01-18 19:51:36,Human,394-0005-046
+AFDC-2 F/C,afdc-2-f/c,6,1,6.0,1,6.0,1,2025-01-18 19:51:36,Human,394-0007-030
+AFDC-4 F/C,afdc-4-f/c,7,1,7.0,1,17.0,1,2025-01-18 19:51:36,Human,394-0008-030
+AFDC-3,afdc-3,8,1,8.0,1,0.0,0,2025-01-18 19:51:36,Human,394-0009-030
+Tubutol,tubutol,9,1,9.0,1,0.0,0,2025-01-18 19:51:36,Human,394-0010-030
+AFDCDT-2,afdcdt-2,6,1,10.0,3,0.0,0,2025-01-18 19:51:36,Human,394-0011-030
+AFDCDT-3,afdcdt-3,10,1,11.0,3,0.0,0,2025-01-18 19:51:36,Human,394-0012-030
+Levetiracetam 250,levetiracetam-250,11,1,12.0,1,0.0,0,2025-01-18 19:51:36,Human,394-0017-046
+Levetiracetam 500,levetiracetam-500,11,1,1.0,1,0.0,0,2025-01-18 19:51:36,Human,394-0018-046
+Levetiracetam 750,levetiracetam-750,11,1,13.0,1,0.0,0,2025-01-18 19:51:36,Human,394-0019-046
+Levetiracetam 1000,levetiracetam-1000,11,1,14.0,1,0.0,0,2025-01-18 19:51:36,Human,394-0020-046
+Donepezil Hydrochloride 5,donepezil-hydrochloride-5,12,1,15.0,1,0.0,0,2025-01-18 19:51:36,Human,394-0021-028
+Donepezil Hydrochloride 10,donepezil-hydrochloride-10,12,1,16.0,1,0.0,0,2025-01-18 19:51:36,Human,394-0022-028
+Cefufine,cefufine,13,2,17.0,4,0.0,0,2025-01-18 19:51:36,Human,355-0065-023
+Cefufine 500,cefufine-500,13,2,1.0,1,0.0,0,2025-01-18 19:51:36,Human,355-0066-023
+Cefufine 250,cefufine-250,13,2,12.0,1,0.0,0,2025-01-18 19:51:36,Human,355-0067-023

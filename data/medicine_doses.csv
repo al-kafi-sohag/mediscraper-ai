@@ -1,0 +1,144 @@
+name,slug,status
+Tablet,tablet,1
+Capsule,capsule,1
+Dispersible Tablet,dispersible-tablet,1
+Powder For Suspension,powder-for-suspension,1
+Syrup,syrup,1
+Suspension,suspension,1
+Paediatric Drops,paediatric-drops,1
+Lotion,lotion,1
+Ointment,ointment,1
+Oral Saline,oral-saline,1
+Cream,cream,1
+Gel,gel,1
+Suppository,suppository,1
+Solution,solution,1
+Injection,injection,1
+IV Injection,iv-injection,1
+IV/IM Injection,iv/im-injection,1
+Eye Drops,eye-drops,1
+Topical Solution,topical-solution,1
+Bolus,bolus,1
+Powder,powder,1
+Water Soluble Powder,water-soluble-powder,1
+Oral Solution,oral-solution,1
+Oral Powder,oral-powder,1
+Eye and Ear Drops,eye-and-ear-drops,1
+IM Injection,im-injection,1
+"Eye, Ear & Nasal Drops","eye,-ear-&-nasal-drops",1
+Vaginal Tablet,vaginal-tablet,1
+Hand Rub,hand-rub,1
+Oral Gel,oral-gel,1
+Gargle & Mouth Wash,gargle-&-mouth-wash,1
+Xr Tablet,xr-tablet,1
+Sr Tablet,sr-tablet,1
+Raw Materials,raw-materials,1
+Pellets,pellets,1
+Eye Ointment,eye-ointment,1
+Mouth Wash,mouth-wash,1
+Sr Capsule,sr-capsule,1
+Aerosol Inhalation,aerosol-inhalation,1
+Inhaler,inhaler,1
+Inhalation Solution,inhalation-solution,1
+IV Infusion,iv-infusion,1
+Ors Tablet,ors-tablet,1
+Orodispersible Tablet,orodispersible-tablet,1
+Nebuliser Solution,nebuliser-solution,1
+Oral Paste,oral-paste,1
+Nasal Spray,nasal-spray,1
+Spray,spray,1
+Dr Tablet,dr-tablet,1
+Cozycap,cozycap,1
+Inhalation Aerosol,inhalation-aerosol,1
+Inhalation Capsule,inhalation-capsule,1
+Nasal Drops,nasal-drops,1
+Chewable Tablet,chewable-tablet,1
+Cr Tablet,cr-tablet,1
+Er Tablet,er-tablet,1
+Scalp Lotion,scalp-lotion,1
+Oral Drops,oral-drops,1
+Granules For Suspension,granules-for-suspension,1
+Oral Suspension,oral-suspension,1
+Mups Tablet,mups-tablet,1
+Inhalation Liquid,inhalation-liquid,1
+Solution For Infusion,solution-for-infusion,1
+Dry Powder Inhaler,dry-powder-inhaler,1
+Liquid,liquid,1
+Emulsion,emulsion,1
+Oral Liquid,oral-liquid,1
+Pellets For Suspension,pellets-for-suspension,1
+Sachet,sachet,1
+Elixir,elixir,1
+Linctus,linctus,1
+Mouth Dissolving Tablet,mouth-dissolving-tablet,1
+Soft Gelatin Capsule,soft-gelatin-capsule,1
+Sached Powder,sached-powder,1
+Ear Drop,ear-drop,1
+Eye & Nasal Drops,eye-&-nasal-drops,1
+Shampoo,shampoo,1
+Ophthalmic Emulsion,ophthalmic-emulsion,1
+Eye Gel,eye-gel,1
+Solution For Injection,solution-for-injection,1
+Nebuliser Suspension,nebuliser-suspension,1
+Metered Dose Inhaler,metered-dose-inhaler,1
+Odt Tablet,odt-tablet,1
+Irrigation Solution,irrigation-solution,1
+Rectal Ointment,rectal-ointment,1
+Resperitory Solution,resperitory-solution,1
+Vaginal Cream,vaginal-cream,1
+Respirator Suspension,respirator-suspension,1
+Oral Soluble Film,oral-soluble-film,1
+Emulgel,emulgel,1
+Oral Emulsion,oral-emulsion,1
+Rapid Tablet,rapid-tablet,1
+Effervescent Tablet,effervescent-tablet,1
+Combipack,combipack,1
+Hfa Inhaler,hfa-inhaler,1
+Pour On (Solution),pour-on-(solution),1
+Powder for Pedriatric Drop,powder-for-pedriatric-drop,1
+Effervescent Granules,effervescent-granules,1
+Extended Release Capsule,extended-release-capsule,1
+Mouth Wash Antiseptic,mouth-wash-antiseptic,1
+Syringe,syringe,1
+Dialysis Solution,dialysis-solution,1
+Per Rectal,per-rectal,1
+Vaginal Gel,vaginal-gel,1
+Pr Tablet,pr-tablet,1
+Dr Granules For Suspension,dr-granules-for-suspension,1
+Er Capsule,er-capsule,1
+Cr Capsule,cr-capsule,1
+Gas,gas,1
+Tincture,tincture,1
+Scrub,scrub,1
+Blood bag,blood-bag,1
+Pvc Bag,pvc-bag,1
+Powder for Solution,powder-for-solution,1
+Ear Spray,ear-spray,1
+Blood Tubing Set,blood-tubing-set,1
+Powder For Oral Solution,powder-for-oral-solution,1
+Oral Granules,oral-granules,1
+Needle for Syringe,needle-for-syringe,1
+Butterfly,butterfly,1
+Eye Cleanser Solution,eye-cleanser-solution,1
+Eye and Ear Ointment,eye-and-ear-ointment,1
+Delayed Release Capsule,delayed-release-capsule,1
+Water For Injection,water-for-injection,1
+Cervical Gel,cervical-gel,1
+Vaginal Pessary,vaginal-pessary,1
+Gum,gum,1
+Oral Dental Gel,oral-dental-gel,1
+Topical Suspension,topical-suspension,1
+Md Tablet,md-tablet,1
+Implant,implant,1
+Viscoelastic Solution,viscoelastic-solution,1
+Drops,drops,1
+Vaginal Suppository,vaginal-suppository,1
+Eye Solution,eye-solution,1
+Scalp Ointment,scalp-ointment,1
+Sprinkle Capsule,sprinkle-capsule,1
+M R Capsule,m-r-capsule,1
+M R Tablet,m-r-tablet,1
+Root Canal Agent,root-canal-agent,1
+Canal Irrigation,canal-irrigation,1
+Solution Fo Root Cannel,solution-fo-root-cannel,1
+Repacking,repacking,1

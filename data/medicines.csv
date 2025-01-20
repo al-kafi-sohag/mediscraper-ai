@@ -1,0 +1,70 @@
+#SL	Name of the Manufacturer	Brand Name	Generic Name	Strength	Dosage Description	Price	Use For	DAR
+1	ACI HealthCare Limited	Nimocon 500	Azithromycin	500 mg	Tablet	0	Human	394-0001-023
+2	ACI HealthCare Limited	Adbon	Calcium + Vitamin D3	500 mg + 200 IU	Tablet	0	Human	394-0002-062
+3	ACI HealthCare Limited	Opental 50	Tramadol Hydrochloride	50 mg	Tablet	0	Human	394-0003-065
+4	ACI HealthCare Limited	Acidex 20	Omeprazole	20 mg	Capsule	0	Human	394-0004-067
+5	ACI HealthCare Limited	Neutin 600	Gabapentin	600 mg	Tablet	0	Human	394-0005-046
+6	ACI HealthCare Limited	AFDC-2 F/C	Isoniazid + Rifampicin	75 mg + 150 mg	Tablet	6.00 Tk	Human	394-0007-030
+7	ACI HealthCare Limited	AFDC-4 F/C	Ethambutol + Isoniazid + Pyrazinamide + Rifampicin	275 mg + 75 mg + 400 mg + 150 mg	Tablet	17.00 Tk	Human	394-0008-030
+8	ACI HealthCare Limited	AFDC-3	Ethambutol + Isoniazid + Rifampicin	275 mg + 75 mg + 150 mg	Tablet	0	Human	394-0009-030
+9	ACI HealthCare Limited	Tubutol	Ethambutol	100 mg	Tablet	0	Human	394-0010-030
+10	ACI HealthCare Limited	AFDCDT-2	Isoniazid + Rifampicin	50 mg + 75 mg	Dispersible Tablet	0	Human	394-0011-030
+11	ACI HealthCare Limited	AFDCDT-3	Isoniazid + Pyrazinamide + Rifampicin	50 mg + 150 mg + 75 mg	Dispersible Tablet	0	Human	394-0012-030
+12	ACI HealthCare Limited	Levetiracetam 250	Levetiracetam	250 mg	Tablet	0	Human	394-0017-046
+13	ACI HealthCare Limited	Levetiracetam 500	Levetiracetam	500 mg	Tablet	0	Human	394-0018-046
+14	ACI HealthCare Limited	Levetiracetam 750	Levetiracetam	750 mg	Tablet	0	Human	394-0019-046
+15	ACI HealthCare Limited	Levetiracetam 1000	Levetiracetam	1000 mg	Tablet	0	Human	394-0020-046
+16	ACI HealthCare Limited	Donepezil Hydrochloride 5	Donepezil Hydrochloride	5 mg	Tablet	0	Human	394-0021-028
+17	ACI HealthCare Limited	Donepezil Hydrochloride 10	Donepezil Hydrochloride	10 mg	Tablet	0	Human	394-0022-028
+18	Active Fine Chemicals Ltd.	Cefufine	Cefuroxime	125 mg/5 ml	Powder For Suspension	0	Human	355-0065-023
+19	Active Fine Chemicals Ltd.	Cefufine 500	Cefuroxime	500 mg	Tablet	0	Human	355-0066-023
+20	Active Fine Chemicals Ltd.	Cefufine 250	Cefuroxime	250 mg	Tablet	0	Human	355-0067-023
+21	Active Fine Chemicals Ltd.	Cefatop	Cefixime	100 mg/5 ml	Powder For Suspension	0	Human	355-0068-023
+22	Active Fine Chemicals Ltd.	Cefatop 200	Cefixime	200 mg	Capsule	0	Human	355-0069-023
+23	Active Fine Chemicals Ltd.	Maxtrol 20	Esomeprazole	20 mg	Tablet	0	Human	355-0070-067
+24	Active Fine Chemicals Ltd.	Atofine 20	Atorvastatin	20 mg	Tablet	0	Human	355-0071-061
+25	Active Fine Chemicals Ltd.	Atofine 10	Atorvastatin	10 mg	Tablet	0	Human	355-0072-061
+26	Active Fine Chemicals Ltd.	Azifine	Azithromycin	200 mg/5 ml	Powder For Suspension	0	Human	355-0073-023
+27	Active Fine Chemicals Ltd.	Azifine 500	Azithromycin	500 mg	Tablet	0	Human	355-0074-023
+28	Active Fine Chemicals Ltd.	Glorinta	Ticagrelor	90 mg	Tablet	0	Human	355-0075-026
+29	Active Fine Chemicals Ltd.	Rosufine 10	Rosuvastatin	10 mg	Tablet	0	Human	355-0076-061
+30	Active Fine Chemicals Ltd.	Rosufine 5	Rosuvastatin	5 mg	Tablet	10.00 Tk	Human	355-0087-061
+31	Ad-din Pharmaceuticals Ltd.	Aldaben  DS  400	Albendazole	400 mg	Tablet	5.00 Tk	Human	084-0028-008
+32	Ad-din Pharmaceuticals Ltd.	Alerjess	Chlorpheniramine Maleate	2 mg/5 ml	Syrup	20.00 Tk	Human	084-0015-021
+33	Ad-din Pharmaceuticals Ltd.	Alerjess	Chlorpheniramine Maleate	4 mg	Tablet	0.30 Tk	Human	084-0030-021
+34	Ad-din Pharmaceuticals Ltd.	B Plex	Nicotinamide + Pyridoxine Hydrochloride + Riboflavin + Vitamin B1	20 mg + 2 mg + 2 mg + 5 mg	Capsule	0	Human	084-0024-078
+35	Ad-din Pharmaceuticals Ltd.	B Plex	Nicotinamide + Pyridoxine Hydrochloride + Riboflavin + Vitamin B1	20 mg + 2 mg + 2 mg + 5 mg	Tablet	0.46 Tk	Human	084-0033-078
+36	Ad-din Pharmaceuticals Ltd.	B Plex	Nicotinamide + Pyridoxine Hydrochloride + Riboflavin + Vitamin B1	20 mg + 2 mg + 2 mg + 5 mg/5 ml	Syrup	62.19 Tk	Human	084-0046-078
+37	Ad-din Pharmaceuticals Ltd.	Ciproxen    250	Ciprofloxacin	250 mg	Tablet	7.00 Tk	Human	084-0034-023
+38	Ad-din Pharmaceuticals Ltd.	Co-Try	Sulphamethoxazole + Trimethoprim	200 mg + 40 mg/5 ml	Suspension	21.50 Tk	Human	084-0018-023
+39	Ad-din Pharmaceuticals Ltd.	Co-Try	Sulphamethoxazole + Trimethoprim	800 mg + 160 mg	Tablet	2.00 Tk	Human	084-0026-023
+40	Ad-din Pharmaceuticals Ltd.	Duomeal	Aluminium Oxide + Magnesium Hydroxide	175 mg + 225 mg/5 ml	Suspension	40.00 Tk	Human	084-0020-007
+41	Ad-din Pharmaceuticals Ltd.	Duomeal	Aluminium Hydroxide + Magnesium Hydroxide	250 mg + 400 mg	Tablet	0.53 Tk	Human	084-0023-007
+42	Ad-din Pharmaceuticals Ltd.	Feva	Paracetamol	120 mg/5 ml	Suspension	18.00 Tk	Human	084-0017-006
+43	Ad-din Pharmaceuticals Ltd.	Feva	Paracetamol	500 mg	Tablet	1.30 Tk	Human	084-0022-006
+44	Ad-din Pharmaceuticals Ltd.	Helben	Mebendazole	100 mg/5 ml	Suspension	18.40 Tk	Human	084-0016-008
+45	Ad-din Pharmaceuticals Ltd.	J Mox    250	Amoxicillin	250 mg	Capsule	2.86 Tk	Human	084-0019-023
+46	Ad-din Pharmaceuticals Ltd.	J Mox	Amoxicillin	125 mg/5 ml	Powder For Suspension	45.00 Tk	Human	084-0037-023
+47	Ad-din Pharmaceuticals Ltd.	J Mox	Amoxicillin	125 mg/1.25 ml	Paediatric Drops	28.32 Tk	Human	084-0040-023
+48	Ad-din Pharmaceuticals Ltd.	Jefenac  TR  100	Diclofenac Sodium	100 mg	Capsule	3.00 Tk	Human	084-0043-064
+49	Ad-din Pharmaceuticals Ltd.	Jefrin	Ferrous Sulphate	200 mg/5 ml	Syrup	0	Human	084-0012-045
+50	Ad-din Pharmaceuticals Ltd.	J Zinc    10mg/5ml	Zinc	10 mg/5 ml	Syrup	30.00 Tk	Human	084-0042-062
+51	Ad-din Pharmaceuticals Ltd.	Jescabilotion    25%	Benzyl Benzoate	1.25 gm/5 ml	Lotion	0	Human	084-0013-071
+52	Ad-din Pharmaceuticals Ltd.	Jess Whitfield	Benzoic Acid + Salicylic Acid	60 mg + 30 mg/gm	Ointment	0	Human	084-0014-071
+53	Ad-din Pharmaceuticals Ltd.	Metra    400	Metronidazole	400 mg	Tablet	1.70 Tk	Human	084-0029-027
+54	Ad-din Pharmaceuticals Ltd.	Jefenac	Diclofenac Sodium	50 mg	Tablet	0.60 Tk	Human	084-0035-064
+55	Ad-din Pharmaceuticals Ltd.	O R S A	Dextrose Anhydrous + Potassium Chloride + Sodium Chloride + Trisodium Citrate	10 gm + 750 gm + 1.75 gm + 1.45 gm/500 ml	Oral Saline	0	Human	084-0031-079
+56	Ad-din Pharmaceuticals Ltd.	Ventosol	Salbutamol	2 mg/5 ml	Syrup	20.00 Tk	Human	084-0047-044
+57	Ad-din Pharmaceuticals Ltd.	J Mox    500	Amoxicillin	500 mg	Capsule	5.71 Tk	Human	084-0039-023
+58	Ad-din Pharmaceuticals Ltd.	Metra	Metronidazole	200 mg/5 ml	Suspension	35.00 Tk	Human	084-0021-027
+59	Ad-din Pharmaceuticals Ltd.	Ciproxen    500	Ciprofloxacin	500 mg	Tablet	14.00 Tk	Human	084-0038-023
+60	Ad-din Pharmaceuticals Ltd.	Jedine    250	Cephradine	250 mg	Capsule	0	Human	084-0053-023
+61	Ad-din Pharmaceuticals Ltd.	Jedine    500	Cephradine	500 mg	Capsule	12.50 Tk	Human	084-0054-023
+62	Ad-din Pharmaceuticals Ltd.	Jedine	Cephradine	125 mg/5 ml	Powder For Suspension	80.00 Tk	Human	084-0055-023
+63	Ad-din Pharmaceuticals Ltd.	Jedine	Cephradine	125 mg/1.25 ml	Paediatric Drops	50.00 Tk	Human	084-0056-023
+64	Ad-din Pharmaceuticals Ltd.	Red Plus	Ferrous Sulphate + Folic Acid + Zinc	150 mg + 500 mcg + 22.5 mg	Capsule	3.00 Tk	Human	084-0057-045
+65	Ad-din Pharmaceuticals Ltd.	Omrazole    20	Omeprazole	20 mg	Capsule	4.50 Tk	Human	084-0058-067
+66	Ad-din Pharmaceuticals Ltd.	Cirizin    10	Cetirizine Dihydrochloride	10 mg	Tablet	3.00 Tk	Human	084-0062-021
+67	Ad-din Pharmaceuticals Ltd.	Cirizin	Cetirizine Dihydrochloride	5 mg/5 ml	Syrup	30.00 Tk	Human	084-0063-021
+68	Ad-din Pharmaceuticals Ltd.	Gutset	Domperidone	10 mg	Tablet	2.00 Tk	Human	084-0066-018
+69	Ad-din Pharmaceuticals Ltd.	Gutset	Domperidone	5 mg/ml	Paediatric Drops	25.00 Tk	Human	084-0067-018

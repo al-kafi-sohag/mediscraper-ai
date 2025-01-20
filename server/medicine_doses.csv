@@ -1,0 +1,144 @@
+"id","name","slug","icon","description","status","created_at","updated_at","deleted_at","created_by","updated_by","deleted_by"
+"1","Tablet","tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"2","Capsule","capsule",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"3","Dispersible Tablet","dispersible-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"4","Powder For Suspension","powder-for-suspension",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"5","Syrup","syrup",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"6","Suspension","suspension",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"7","Paediatric Drops","paediatric-drops",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"8","Lotion","lotion",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"9","Ointment","ointment",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"10","Oral Saline","oral-saline",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"11","Cream","cream",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"12","Gel","gel",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"13","Suppository","suppository",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"14","Solution","solution",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"15","Injection","injection",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"16","IV Injection","iv-injection",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"17","IV/IM Injection","iv/im-injection",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"18","Eye Drops","eye-drops",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"19","Topical Solution","topical-solution",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"20","Bolus","bolus",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"21","Powder","powder",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"22","Water Soluble Powder","water-soluble-powder",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"23","Oral Solution","oral-solution",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"24","Oral Powder","oral-powder",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"25","Eye and Ear Drops","eye-and-ear-drops",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"26","IM Injection","im-injection",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"27","Eye, Ear & Nasal Drops","eye,-ear-&-nasal-drops",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"28","Vaginal Tablet","vaginal-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"29","Hand Rub","hand-rub",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"30","Oral Gel","oral-gel",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"31","Gargle & Mouth Wash","gargle-&-mouth-wash",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"32","Xr Tablet","xr-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"33","Sr Tablet","sr-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"34","Raw Materials","raw-materials",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"35","Pellets","pellets",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"36","Eye Ointment","eye-ointment",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"37","Mouth Wash","mouth-wash",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"38","Sr Capsule","sr-capsule",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"39","Aerosol Inhalation","aerosol-inhalation",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"40","Inhaler","inhaler",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"41","Inhalation Solution","inhalation-solution",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"42","IV Infusion","iv-infusion",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"43","Ors Tablet","ors-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"44","Orodispersible Tablet","orodispersible-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"45","Nebuliser Solution","nebuliser-solution",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"46","Oral Paste","oral-paste",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"47","Nasal Spray","nasal-spray",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"48","Spray","spray",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"49","Dr Tablet","dr-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"50","Cozycap","cozycap",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"51","Inhalation Aerosol","inhalation-aerosol",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"52","Inhalation Capsule","inhalation-capsule",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"53","Nasal Drops","nasal-drops",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"54","Chewable Tablet","chewable-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"55","Cr Tablet","cr-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"56","Er Tablet","er-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"57","Scalp Lotion","scalp-lotion",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"58","Oral Drops","oral-drops",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"59","Granules For Suspension","granules-for-suspension",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"60","Oral Suspension","oral-suspension",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"61","Mups Tablet","mups-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"62","Inhalation Liquid","inhalation-liquid",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"63","Solution For Infusion","solution-for-infusion",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"64","Dry Powder Inhaler","dry-powder-inhaler",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"65","Liquid","liquid",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"66","Emulsion","emulsion",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"67","Oral Liquid","oral-liquid",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"68","Pellets For Suspension","pellets-for-suspension",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"69","Sachet","sachet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"70","Elixir","elixir",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"71","Linctus","linctus",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"72","Mouth Dissolving Tablet","mouth-dissolving-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"73","Soft Gelatin Capsule","soft-gelatin-capsule",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"74","Sached Powder","sached-powder",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"75","Ear Drop","ear-drop",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"76","Eye & Nasal Drops","eye-&-nasal-drops",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"77","Shampoo","shampoo",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"78","Ophthalmic Emulsion","ophthalmic-emulsion",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"79","Eye Gel","eye-gel",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"80","Solution For Injection","solution-for-injection",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"81","Nebuliser Suspension","nebuliser-suspension",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"82","Metered Dose Inhaler","metered-dose-inhaler",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"83","Odt Tablet","odt-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"84","Irrigation Solution","irrigation-solution",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"85","Rectal Ointment","rectal-ointment",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"86","Resperitory Solution","resperitory-solution",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"87","Vaginal Cream","vaginal-cream",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"88","Respirator Suspension","respirator-suspension",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"89","Oral Soluble Film","oral-soluble-film",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"90","Emulgel","emulgel",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"91","Oral Emulsion","oral-emulsion",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"92","Rapid Tablet","rapid-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"93","Effervescent Tablet","effervescent-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"94","Combipack","combipack",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"95","Hfa Inhaler","hfa-inhaler",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"96","Pour On (Solution)","pour-on-(solution)",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"97","Powder for Pedriatric Drop","powder-for-pedriatric-drop",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"98","Effervescent Granules","effervescent-granules",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"99","Extended Release Capsule","extended-release-capsule",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"100","Mouth Wash Antiseptic","mouth-wash-antiseptic",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"101","Syringe","syringe",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"102","Dialysis Solution","dialysis-solution",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"103","Per Rectal","per-rectal",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"104","Vaginal Gel","vaginal-gel",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"105","Pr Tablet","pr-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"106","Dr Granules For Suspension","dr-granules-for-suspension",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"107","Er Capsule","er-capsule",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"108","Cr Capsule","cr-capsule",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"109","Gas","gas",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"110","Tincture","tincture",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"111","Scrub","scrub",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"112","Blood bag","blood-bag",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"113","Pvc Bag","pvc-bag",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"114","Powder for Solution","powder-for-solution",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"115","Ear Spray","ear-spray",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"116","Blood Tubing Set","blood-tubing-set",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"117","Powder For Oral Solution","powder-for-oral-solution",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"118","Oral Granules","oral-granules",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"119","Needle for Syringe","needle-for-syringe",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"120","Butterfly","butterfly",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"121","Eye Cleanser Solution","eye-cleanser-solution",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"122","Eye and Ear Ointment","eye-and-ear-ointment",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"123","Delayed Release Capsule","delayed-release-capsule",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"124","Water For Injection","water-for-injection",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"125","Cervical Gel","cervical-gel",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"126","Vaginal Pessary","vaginal-pessary",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"127","Gum","gum",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"128","Oral Dental Gel","oral-dental-gel",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"129","Topical Suspension","topical-suspension",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"130","Md Tablet","md-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"131","Implant","implant",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"132","Viscoelastic Solution","viscoelastic-solution",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"133","Drops","drops",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"134","Vaginal Suppository","vaginal-suppository",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"135","Eye Solution","eye-solution",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"136","Scalp Ointment","scalp-ointment",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"137","Sprinkle Capsule","sprinkle-capsule",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"138","M R Capsule","m-r-capsule",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"139","M R Tablet","m-r-tablet",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"140","Root Canal Agent","root-canal-agent",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"141","Canal Irrigation","canal-irrigation",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"142","Solution Fo Root Cannel","solution-fo-root-cannel",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
+"143","Repacking","repacking",NULL,NULL,"1","2025-01-18 19:30:09",NULL,NULL,NULL,NULL,NULL
